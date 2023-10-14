@@ -1,0 +1,9 @@
+{
+    "board": "esp8266:esp8266:generic",
+    "port": "COM3",
+    "output": "R:\\build\\",
+    "sketch": "smartplug\\smartplug.ino",
+    "intelliSenseGen": "enable",
+    "programmer": "avrisp",
+    "configuration": "xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,ResetMethod=nodemcu,CrystalFreq=26,FlashFreq=40,FlashMode=qio,eesz=4M2M,led=2,sdk=nonosdk_191122,ip=lm2f,dbg=Disabled,lvl=None____,wipe=all,baud=512000"
+}
